@@ -1,6 +1,5 @@
 package com.assignment.test.datamodel;
 
-import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.Data;
 
 @Data
