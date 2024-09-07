@@ -8,7 +8,6 @@ import com.assignment.test.opeartiontype.OperationType;
 
 public class BigDecimalDivideOperation implements OperationType {
 
-	// Precision and scale for division
 	public static final int SCALE = 15;
 	@Override
 	public Number execute(Number a, Number b) {
