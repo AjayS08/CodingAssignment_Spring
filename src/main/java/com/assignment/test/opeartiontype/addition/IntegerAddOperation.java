@@ -15,6 +15,6 @@ public class IntegerAddOperation implements OperationType {
 			}
 			return a + b;
 		}
-		return null; // Fallback or other cases
+		return null;
 	}
 }
